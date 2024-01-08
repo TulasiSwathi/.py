@@ -1,0 +1,2 @@
+This is my first file handling.I am appending somemore text
+ r+ method
